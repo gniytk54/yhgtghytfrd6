@@ -1,0 +1,6 @@
+owner=486141054677155860
+prefix="
+game=Lgened
+stayinchannel=true
+songinstatus=false
+token=NTUxNzYyMzIyMzgxODY0OTcx.D12bhg.5SK3RkH6fAGCtm6E7iZhV6eumjE
